@@ -9,6 +9,7 @@ The system was developed to support agricultural quality assessment and post-har
 - Pixel-to-centimeter conversion using calibration markers
 - Automated measurement of fruit length and top/bottom widths
 - Comparison with expert-annotated ground truth
+- Using Pyinstaller compile ([https://pyinstaller.org/en/stable/pyinstaller.org](https://pyinstaller.org/en/stable/))
 
 📸 Dataset
 
