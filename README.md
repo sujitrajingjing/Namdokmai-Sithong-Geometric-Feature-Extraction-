@@ -11,9 +11,11 @@ The system was developed to support agricultural quality assessment and post-har
 - Comparison with expert-annotated ground truth
 
 📸 Dataset
+
 Expert inspection and manual annotation were performed to define ground-truth bounding boxes for mango fruits and peduncles. The datasets were specifically designed for training and evaluating YOLOv8, chosen for its superior performance in real-time agricultural scenarios.
 For dataset access, please refer to the linked Kaggle dataset
  ([Namdokmai Sithong Geometric Feature Dataset](https://www.kaggle.com/datasets/sujitraarw/namdokmai-sithong-geometric-feature-dataset)).
 
 🙏 Acknowledgments
+
  The authors are grateful for the grant from Mae Fah Luang University under the National Science, Research, and Innovation Fund (NSRF) 2024: grant no. 672A03036, and to Mae Fah Luang University for financial support and the provision of experimental research sites.
